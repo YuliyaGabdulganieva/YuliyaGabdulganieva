@@ -1,7 +1,4 @@
 ## Здравствуйте, меня зовут Юля)
-
-<!--
-**YuliyaGabdulganieva/YuliyaGabdulganieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 > Я - начинающий тестировщик. Активно ищу работу!
 
 - 🔭 I’m currently working on ...
