@@ -1,4 +1,4 @@
-### Здравствуйте, меня зовут Юля)
+### 👩‍💻 Здравствуйте, меня зовут Юля)
 
 <!--
 **YuliyaGabdulganieva/YuliyaGabdulganieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
