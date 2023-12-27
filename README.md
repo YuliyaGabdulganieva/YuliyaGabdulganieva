@@ -12,7 +12,7 @@
 • Android Studio.
 
 ### 📖 Мои учебные проекты:
-• <a href="https://docs.google.com/spreadsheets/d/1eS3T6ophmMJEyuZUbBuyGxWhladFqjx88kgmUQCUhjM/edit?usp=sharing">Дипломная работа</a> 
+• <a href="https://docs.google.com/spreadsheets/d/1eS3T6ophmMJEyuZUbBuyGxWhladFqjx88kgmUQCUhjM/edit?usp=sharing">Дипломная работа</a> <br />
 • <a href="https://miss-foxiness.youtrack.cloud/issues">Баг-репорты</a> 
 
 
