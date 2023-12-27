@@ -11,9 +11,9 @@
 • Jira;
 • Android Studio.
 
-# 📖 Мои учебные проекты:
+# Мои учебные проекты:
 • <a href="https://docs.google.com/spreadsheets/d/1eS3T6ophmMJEyuZUbBuyGxWhladFqjx88kgmUQCUhjM/edit?usp=sharing">Дипломная работа</a> 
-• Баг-репорты https://miss-foxiness.youtrack.cloud/issues
+• <a href="https://miss-foxiness.youtrack.cloud/issues">Баг-репорты</a> 
 
 
 
